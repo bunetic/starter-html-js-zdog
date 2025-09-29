@@ -1,0 +1,26 @@
+{
+  "name": "bunetic-zdog-3d",
+  "version": "1.0.0",
+  "description": "3D character animation starter template with Zdog library",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "keywords": [
+    "bunetic",
+    "starter",
+    "template",
+    "zdog",
+    "3d",
+    "animation"
+  ],
+  "author": "Dave DeSandro",
+  "license": "MIT"
+}
