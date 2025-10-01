@@ -2,6 +2,11 @@
 
 A 3D character animation starter template using the Zdog library, featuring Madeline character by Dave DeSandro.
 
+# Screenshot
+
+<img width="641" height="448" alt="Screenshot 2025-09-30 at 11 32 22 PM" src="https://github.com/user-attachments/assets/b52fa362-e7a5-45bf-82f8-8c80bd2526e4" />
+
+
 ## File Structure
 
 This template contains the files needed to deploy a 3D animated website on Bunetic:
